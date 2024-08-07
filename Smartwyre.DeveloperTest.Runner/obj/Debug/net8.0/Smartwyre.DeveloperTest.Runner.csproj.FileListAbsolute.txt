@@ -18,3 +18,23 @@
 /Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Runner/obj/Debug/net8.0/Smartwyre.DeveloperTest.Runner.pdb
 /Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Runner/obj/Debug/net8.0/Smartwyre.DeveloperTest.Runner.genruntimeconfig.cache
 /Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Runner/obj/Debug/net8.0/ref/Smartwyre.DeveloperTest.Runner.dll
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\bin\Debug\net8.0\Smartwyre.DeveloperTest.Runner.exe
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\bin\Debug\net8.0\Smartwyre.DeveloperTest.Runner.deps.json
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\bin\Debug\net8.0\Smartwyre.DeveloperTest.Runner.runtimeconfig.json
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\bin\Debug\net8.0\Smartwyre.DeveloperTest.Runner.dll
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\bin\Debug\net8.0\Smartwyre.DeveloperTest.Runner.pdb
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\bin\Debug\net8.0\Smartwyre.DeveloperTest.dll
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\bin\Debug\net8.0\Smartwyre.DeveloperTest.pdb
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\Smartwyre.DeveloperTest.Runner.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\Smartwyre.DeveloperTest.Runner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\Smartwyre.DeveloperTest.Runner.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\Smartwyre.DeveloperTest.Runner.AssemblyInfo.cs
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\Smartwyre.DeveloperTest.Runner.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\Smartwyre.DeveloperTest.Runner.sourcelink.json
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\Smartwyr.52A27A7F.Up2Date
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\Smartwyre.DeveloperTest.Runner.dll
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\refint\Smartwyre.DeveloperTest.Runner.dll
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\Smartwyre.DeveloperTest.Runner.pdb
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\Smartwyre.DeveloperTest.Runner.genruntimeconfig.cache
+C:\Users\PC\Documents\sk work\Rebate_Calculator\Rebate_Calculator\Smartwyre.DeveloperTest.Runner\obj\Debug\net8.0\ref\Smartwyre.DeveloperTest.Runner.dll

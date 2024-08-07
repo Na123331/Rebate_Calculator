@@ -1,33 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Tests/Smartwyre.DeveloperTest.Tests.csproj": {}
+    "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj": {}
   },
   "projects": {
-    "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Tests/Smartwyre.DeveloperTest.Tests.csproj": {
+    "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Tests/Smartwyre.DeveloperTest.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj",
         "projectName": "Smartwyre.DeveloperTest.Tests",
-        "projectPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Tests/Smartwyre.DeveloperTest.Tests.csproj",
-        "packagesPath": "/Users/ammarahmad/.nuget/packages/",
-        "outputPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest.Tests/obj/",
+        "projectPath": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ammarahmad/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj": {
-                "projectPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj"
+              "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj": {
+                "projectPath": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj"
               }
             }
           }
@@ -84,26 +86,28 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj": {
+    "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj",
         "projectName": "Smartwyre.DeveloperTest",
-        "projectPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/Smartwyre.DeveloperTest.csproj",
-        "packagesPath": "/Users/ammarahmad/.nuget/packages/",
-        "outputPath": "/Users/ammarahmad/FREELANCING/FIVERR/n4s232/developer-interview-test/Smartwyre.DeveloperTest/obj/",
+        "projectPath": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ammarahmad/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -148,7 +152,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

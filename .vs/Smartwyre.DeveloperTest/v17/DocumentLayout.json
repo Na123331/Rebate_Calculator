@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C165761-CB14-4120-9DF7-D2BCF0F8225C}|Smartwyre.DeveloperTest.Runner\\Smartwyre.DeveloperTest.Runner.csproj|c:\\users\\pc\\documents\\sk work\\rebate_calculator\\rebate_calculator\\smartwyre.developertest.runner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C165761-CB14-4120-9DF7-D2BCF0F8225C}|Smartwyre.DeveloperTest.Runner\\Smartwyre.DeveloperTest.Runner.csproj|solutionrelative:smartwyre.developertest.runner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2F6F96-DEC3-4D9A-9AE2-1F9E8B2E4E83}|Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj|c:\\users\\pc\\documents\\sk work\\rebate_calculator\\rebate_calculator\\smartwyre.developertest\\calculators\\fixedraterebatecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2F6F96-DEC3-4D9A-9AE2-1F9E8B2E4E83}|Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj|solutionrelative:smartwyre.developertest\\calculators\\fixedraterebatecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2F6F96-DEC3-4D9A-9AE2-1F9E8B2E4E83}|Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj|c:\\users\\pc\\documents\\sk work\\rebate_calculator\\rebate_calculator\\smartwyre.developertest\\calculators\\amountperuomcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2F6F96-DEC3-4D9A-9AE2-1F9E8B2E4E83}|Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj|solutionrelative:smartwyre.developertest\\calculators\\amountperuomcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2F6F96-DEC3-4D9A-9AE2-1F9E8B2E4E83}|Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj|c:\\users\\pc\\documents\\sk work\\rebate_calculator\\rebate_calculator\\smartwyre.developertest\\data\\productdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2F6F96-DEC3-4D9A-9AE2-1F9E8B2E4E83}|Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj|solutionrelative:smartwyre.developertest\\data\\productdatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579DD8AE-7BEA-45BC-B46A-FE9F071BFDE5}|Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj|c:\\users\\pc\\documents\\sk work\\rebate_calculator\\rebate_calculator\\smartwyre.developertest.tests\\rebateservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{579DD8AE-7BEA-45BC-B46A-FE9F071BFDE5}|Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj|solutionrelative:smartwyre.developertest.tests\\rebateservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2F6F96-DEC3-4D9A-9AE2-1F9E8B2E4E83}|Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj|c:\\users\\pc\\documents\\sk work\\rebate_calculator\\rebate_calculator\\smartwyre.developertest\\smartwyre.developertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C2F6F96-DEC3-4D9A-9AE2-1F9E8B2E4E83}|Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj|solutionrelative:smartwyre.developertest\\smartwyre.developertest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{579DD8AE-7BEA-45BC-B46A-FE9F071BFDE5}|Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj|c:\\users\\pc\\documents\\sk work\\rebate_calculator\\rebate_calculator\\smartwyre.developertest.tests\\smartwyre.developertest.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{579DD8AE-7BEA-45BC-B46A-FE9F071BFDE5}|Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj|solutionrelative:smartwyre.developertest.tests\\smartwyre.developertest.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FixedRateRebateCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Calculators\\FixedRateRebateCalculator.cs",
+              "RelativeDocumentMoniker": "Smartwyre.DeveloperTest\\Calculators\\FixedRateRebateCalculator.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Calculators\\FixedRateRebateCalculator.cs",
+              "RelativeToolTip": "Smartwyre.DeveloperTest\\Calculators\\FixedRateRebateCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:10:00.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AmountPerUomCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Calculators\\AmountPerUomCalculator.cs",
+              "RelativeDocumentMoniker": "Smartwyre.DeveloperTest\\Calculators\\AmountPerUomCalculator.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Calculators\\AmountPerUomCalculator.cs",
+              "RelativeToolTip": "Smartwyre.DeveloperTest\\Calculators\\AmountPerUomCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:09:59.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDataStore.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Data\\ProductDataStore.cs",
+              "RelativeDocumentMoniker": "Smartwyre.DeveloperTest\\Data\\ProductDataStore.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Data\\ProductDataStore.cs",
+              "RelativeToolTip": "Smartwyre.DeveloperTest\\Data\\ProductDataStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:09:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Smartwyre.DeveloperTest",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj",
+              "RelativeDocumentMoniker": "Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj",
+              "ToolTip": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj",
+              "RelativeToolTip": "Smartwyre.DeveloperTest\\Smartwyre.DeveloperTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T15:09:13.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Smartwyre.DeveloperTest.Tests",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj",
+              "RelativeDocumentMoniker": "Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj",
+              "ToolTip": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj",
+              "RelativeToolTip": "Smartwyre.DeveloperTest.Tests\\Smartwyre.DeveloperTest.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-07T15:09:03.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RebateServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest.Tests\\RebateServiceTests.cs",
+              "RelativeDocumentMoniker": "Smartwyre.DeveloperTest.Tests\\RebateServiceTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest.Tests\\RebateServiceTests.cs",
+              "RelativeToolTip": "Smartwyre.DeveloperTest.Tests\\RebateServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:08:28.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest.Runner\\Program.cs",
+              "RelativeDocumentMoniker": "Smartwyre.DeveloperTest.Runner\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Documents\\sk work\\Rebate_Calculator\\Rebate_Calculator\\Smartwyre.DeveloperTest.Runner\\Program.cs",
+              "RelativeToolTip": "Smartwyre.DeveloperTest.Runner\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T15:08:23.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
